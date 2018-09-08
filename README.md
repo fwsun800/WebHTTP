@@ -1,6 +1,1 @@
-# WebHTTP
-
-```bash
-grep host . -vi 
-
-```
+```shell grep HOSTNAME . -ri ```
