@@ -1,1 +1,1 @@
-```shell grep HOSTNAME . -ri ```
+```bash grep HOSTNAME . -ri ```
